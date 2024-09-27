@@ -4,6 +4,9 @@ Meu nome é Felipe Marsom
 - Sou professor de Tecnologia e Robótica;
 - Estou estudando no Alura;
 - Gosto de viagens, música e sair dançar;
+
+Entre em contato comigo 📫
+felipemarsom@prof.educacao.sp.gov.br
   
 <!--
 **felipecmleite/felipecmleite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
