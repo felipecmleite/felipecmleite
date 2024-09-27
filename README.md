@@ -1,4 +1,4 @@
-## Bem-vindo/a ao meu perfil :basecamp:
+## Boas-vindas ao meu perfil  :basecamp:
 
 <!--
 **felipecmleite/felipecmleite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
