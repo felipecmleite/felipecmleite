@@ -9,7 +9,7 @@ Entre em contato comigo 📫
 
 felipemarsom@prof.educacao.sp.gov.br
 
-![](https://media1.tenor.com/m/1G15IWxx_W0AAAAC/where-you-at-dory.gif)
+![](https://media1.tenor.com/m/SH1qnpaFPX8AAAAC/starfish-nemo.gif)
   
 <!--
 **felipecmleite/felipecmleite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
