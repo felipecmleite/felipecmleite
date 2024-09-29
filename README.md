@@ -2,7 +2,7 @@
 
 Meu nome é Felipe Marsom
 - Sou professor de Tecnologia e Robótica;
-- Estou estudando no [Alura](https://www.alura.com.br);
+- Estou estudando na [Alura](https://www.alura.com.br);
 - Gosto de viagens, música e sair dançar;
 
 Entre em contato comigo 📫
